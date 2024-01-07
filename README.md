@@ -47,7 +47,7 @@ The drug recommendation system utilizes sentiments derived from reviews to sugge
 3. Download NLTK stopwords using `nltk.download('stopwords')`.
 4. Run the code to perform sentiment analysis and generate drug recommendations.
 
-Feel free to customize the code to suit your specific requirements. If you encounter any issues or have questions, refer to the documentation or contact the repository owner.
+Feel free to customize the code to suit your specific requirements. If you encounter any issues or have questions, refer to the documentation or contact me.
 
 Happy analyzing and recommending!
 
